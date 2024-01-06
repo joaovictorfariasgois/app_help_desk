@@ -1,5 +1,5 @@
 # App_help_desk
-  Aplicação criado para fins didáticos feito a partir da linguagem de programação PHP afim de praticar o sistema de Back-end de uma aplicação.
+  Aplicação feita a partir da linguagem de programação PHP afim de praticar o sistema de Back-end de uma aplicação.
 
 # Aplicativo de suporte técnico - LEIA-ME
 
