@@ -56,4 +56,3 @@ Ver detalhes do ingresso:
 Clique em um ticket para ver seus detalhes.
 Os detalhes do ticket incluem a descrição do problema e os status. 
 
-<b>Nota:</b> Este aplicativo foi criado para fins educacionais e não se destina ao uso em produção. É uma representação básica de um sistema de help desk para demonstrar conceitos de programação PHP e autenticação básica de usuário.
